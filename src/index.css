@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family:plusJakartaSans;
+    background-color: #e2f3fc;
+}
+
+input{
+    cursor: pointer;
+}
